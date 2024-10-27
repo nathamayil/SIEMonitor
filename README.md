@@ -1,6 +1,8 @@
 # SIEMonitor
 A simple, yet powerful SIEM Lab, done in Parrot OS with Elastic Cloud Integration
 
+Check out the following Medium blog : https://mayillikestotech.medium.com/creating-a-siem-lab-using-elasticagent-and-parrot-os-1881f46030e4
+
 Parrot OS is a flavour of Linux which emphasizes and leans more towards security, as opposed to getting all the tools from scratch through the terminal in other Linux versions.
 
 We will be using Elastic for recording and collecting the logs
